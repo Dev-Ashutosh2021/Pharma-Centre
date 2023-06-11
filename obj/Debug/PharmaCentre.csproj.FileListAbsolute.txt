@@ -1,0 +1,14 @@
+C:\Users\ashut\source\repos\PharmaCentre\bin\Debug\PharmaCentre.exe.config
+C:\Users\ashut\source\repos\PharmaCentre\bin\Debug\PharmaCentre.exe
+C:\Users\ashut\source\repos\PharmaCentre\bin\Debug\PharmaCentre.pdb
+C:\Users\ashut\source\repos\PharmaCentre\obj\Debug\PharmaCentre.csproj.AssemblyReference.cache
+C:\Users\ashut\source\repos\PharmaCentre\obj\Debug\PharmaCentre.csproj.SuggestedBindingRedirects.cache
+C:\Users\ashut\source\repos\PharmaCentre\obj\Debug\PharmaCentre.Form1.resources
+C:\Users\ashut\source\repos\PharmaCentre\obj\Debug\PharmaCentre.Properties.Resources.resources
+C:\Users\ashut\source\repos\PharmaCentre\obj\Debug\PharmaCentre.csproj.GenerateResource.cache
+C:\Users\ashut\source\repos\PharmaCentre\obj\Debug\PharmaCentre.csproj.CoreCompileInputs.cache
+C:\Users\ashut\source\repos\PharmaCentre\obj\Debug\PharmaCentre.exe
+C:\Users\ashut\source\repos\PharmaCentre\obj\Debug\PharmaCentre.pdb
+C:\Users\ashut\source\repos\PharmaCentre\bin\Debug\Guna.UI2.dll
+C:\Users\ashut\source\repos\PharmaCentre\obj\Debug\PharmaCentre.csproj.CopyComplete
+C:\Users\ashut\source\repos\PharmaCentre\obj\Debug\PharmaCentre.Administrator.resources
